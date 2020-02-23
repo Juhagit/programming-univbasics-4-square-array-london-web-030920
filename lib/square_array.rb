@@ -8,7 +8,7 @@ counter = 0
     counter += 1
     return new_array
   end
-  return new_array
+  
 end
 
 
