@@ -1,6 +1,6 @@
 def square_array(array)
 
-ounter = 0 
+counter = 0 
  new_array = []
  while counter < array.length do
    new_array.push (array[counter]**2)
