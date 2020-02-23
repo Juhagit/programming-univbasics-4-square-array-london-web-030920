@@ -9,9 +9,6 @@ counter = 0
  end
  return new_array
  
- 
- 
- 
 
 end
 
