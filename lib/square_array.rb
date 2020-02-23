@@ -7,8 +7,7 @@ counter = 0
     new_array.push(array[counter]**2)
     counter += 1
     return new_array
-    return new_array
-    return new_array
+  
   end
 end
 
